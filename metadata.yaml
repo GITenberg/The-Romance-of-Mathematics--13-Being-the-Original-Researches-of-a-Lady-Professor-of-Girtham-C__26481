@@ -1,0 +1,30 @@
+_repo: The-Romance-of-Mathematics--13-Being-the-Original-Researches-of-a-Lady-Professor-of-Girtham-C__26481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hampson, P.
+    gutenberg_agent_id: '32037'
+    url: http://www.gutenberg.org/2009/agents/32037
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2008-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Humor'
+- !lcsh 'Mathematics'
+- !lcsh 'Science -- Anecdotes'
+- !lcc 'QA'
+title: "The Romance of Mathematics\r\nBeing the Original Researches of a Lady Professor\
+  \ of Girtham College in Polemical Science, with some Account of the Social Properties\
+  \ of a Conic; Equations to Brain Waves; Social Forces; and the Laws of Political\
+  \ Motion."
+url: http://www.gutenberg.org/ebooks/26481
