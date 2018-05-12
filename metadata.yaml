@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32037'
     url: http://www.gutenberg.org/2009/agents/32037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26481#The-Romance-of-Mathematics--13-Being-the-Original-Researches-of-a-Lady-Professor-of-Girtham-C_
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2008-08-29'
 gutenberg_type: Text
